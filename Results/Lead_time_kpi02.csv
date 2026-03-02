@@ -1,0 +1,76 @@
+"supplier_id","supplier_name","material_id","part_number","total_deliveries","avg_lead_time","lead_time_stddev"
+"SUP024","Amphenol Corporation","MAT065","DM3AT-SF-PEJM5","1","39.00",NULL
+"SUP024","Amphenol Corporation","MAT062","6.32723E+11","1","38.00",NULL
+"SUP024","Amphenol Corporation","MAT061","10118192-0001LF","2","24.50","0.71"
+"SUP016","Analog Devices","MAT095","TMP36GT9Z","1","46.00",NULL
+"SUP016","Analog Devices","MAT089","ADS1115IDGSR","1","52.00",NULL
+"SUP016","Analog Devices","MAT025","AD8221ARZ","2","63.00","4.24"
+"SUP016","Analog Devices","MAT024","AD8605ARTZ-REEL7","2","49.00","4.24"
+"SUP029","Coilcraft Inc","MAT072","SRP1038A-100M","1","24.00",NULL
+"SUP029","Coilcraft Inc","MAT071","XAL5030-222MEB","1","24.00",NULL
+"SUP029","Coilcraft Inc","MAT070","SRN4018-4R7M","2","43.50","7.78"
+"SUP003","Digi-Key Electronics","MAT107","WS2812B","1","7.00",NULL
+"SUP003","Digi-Key Electronics","MAT100","MPU-6050","1","7.00",NULL
+"SUP003","Digi-Key Electronics","MAT098","APDS-9960","1","7.00",NULL
+"SUP003","Digi-Key Electronics","MAT088","CH340G","1","7.00",NULL
+"SUP003","Digi-Key Electronics","MAT075","ABM8-16.000MHZ-B2-T","1","7.00",NULL
+"SUP003","Digi-Key Electronics","MAT039","ESP32-WROOM-32E","3","7.00","0.00"
+"SUP003","Digi-Key Electronics","MAT087","CP2102N-A02-GQFN24","2","7.00","0.00"
+"SUP046","Jiangsu Changjing","MAT080","MB6S","1","44.00",NULL
+"SUP046","Jiangsu Changjing","MAT043","AO3400A","1","65.00",NULL
+"SUP046","Jiangsu Changjing","MAT048","SS14","1","58.00",NULL
+"SUP012","KEMET Corporation","MAT006","C0805C106K9PACTU","1","30.00",NULL
+"SUP012","KEMET Corporation","MAT005","C0603C104K5RACTU","1","30.00",NULL
+"SUP012","KEMET Corporation","MAT019","T491A106K016AT","2","50.00","8.49"
+"SUP033","Littelfuse Inc","MAT051","0603L050YR","1","42.00",NULL
+"SUP033","Littelfuse Inc","MAT108","LTST-C171KRKT","1","21.00",NULL
+"SUP033","Littelfuse Inc","MAT050","SMBJ15A","2","31.50","14.85"
+"SUP033","Littelfuse Inc","MAT049","SMAJ5.0A","2","31.50","14.85"
+"SUP019","Microchip Technology","MAT037","ATTINY85-20SU","2","54.00","12.73"
+"SUP019","Microchip Technology","MAT038","PIC16F1829-I/SS","2","54.00","7.07"
+"SUP019","Microchip Technology","MAT036","ATMEGA328P-AU","2","47.00","2.83"
+"SUP025","Molex LLC","MAT059","87438-0242","1","42.00",NULL
+"SUP025","Molex LLC","MAT058","5034800400","1","42.00",NULL
+"SUP025","Molex LLC","MAT064","52271-1079","1","35.00",NULL
+"SUP025","Molex LLC","MAT063","473461001","3","45.00","21.17"
+"SUP025","Molex LLC","MAT054","22-28-4103","2","31.50","14.85"
+"SUP007","Murata Manufacturing","MAT078","CSTCE8M00G55-R0","1","42.00",NULL
+"SUP007","Murata Manufacturing","MAT003","GRM21BR71H105KA12","4","52.50","13.40"
+"SUP007","Murata Manufacturing","MAT001","GRM155R71H104KE14","4","52.50","13.40"
+"SUP007","Murata Manufacturing","MAT067","WE-CBF 742792093","2","63.00","9.90"
+"SUP007","Murata Manufacturing","MAT004","GRM31CR71H106KA12","6","68.00","8.97"
+"SUP007","Murata Manufacturing","MAT002","GRM188R71H104KA93","2","45.00","4.24"
+"SUP007","Murata Manufacturing","MAT068","BLM18PG221SN1D","2","42.00","0.00"
+"SUP038","Omron Electronic","MAT113","PC817X1NSZ0F","1","61.00",NULL
+"SUP038","Omron Electronic","MAT115","G5V-1-DC5","1","75.00",NULL
+"SUP038","Omron Electronic","MAT116","G6K-2F-Y-DC5","1","61.00",NULL
+"SUP017","STMicroelectronics","MAT035","STM32G071RBT6","1","64.00",NULL
+"SUP017","STMicroelectronics","MAT033","STM32F103C8T6","2","74.50","3.54"
+"SUP017","STMicroelectronics","MAT034","STM32F401CCU6","2","63.50","0.71"
+"SUP009","Samsung Electro-Mechanics","MAT008","CL21B106KOQNNNE","1","63.00",NULL
+"SUP009","Samsung Electro-Mechanics","MAT007","CL10B104KB8NNNC","2","78.00","9.90"
+"SUP041","Shenzhen Sunlord","MAT041","IRLML6344TRPBF","1","65.00",NULL
+"SUP041","Shenzhen Sunlord","MAT042","SI2302CDS-T1-GE3","1","58.00",NULL
+"SUP008","TDK Corporation","MAT058","5034800400","1","45.00",NULL
+"SUP008","TDK Corporation","MAT078","CSTCE8M00G55-R0","1","47.00",NULL
+"SUP008","TDK Corporation","MAT073","LQH32CN100K23L","3","62.67","4.73"
+"SUP008","TDK Corporation","MAT069","MLZ2012N100LT000","2","46.00","1.41"
+"SUP023","TE Connectivity","MAT023","TL074CDR","2","59.00","7.07"
+"SUP023","TE Connectivity","MAT053","1-104549-3","2","42.00","0.00"
+"SUP023","TE Connectivity","MAT119","FSM4JH","2","42.00","0.00"
+"SUP023","TE Connectivity","MAT060","1734028-1","2","42.00","0.00"
+"SUP015","Texas Instruments","MAT029","LM1117IMPX-3.3","1","46.00",NULL
+"SUP015","Texas Instruments","MAT026","REF3030AIDBZR","1","46.00",NULL
+"SUP015","Texas Instruments","MAT022","LM324DR","1","46.00",NULL
+"SUP015","Texas Instruments","MAT030","TPS54331DR","2","53.00","9.90"
+"SUP015","Texas Instruments","MAT027","TPS7A4901DGNT","2","50.00","5.66"
+"SUP015","Texas Instruments","MAT021","LM358DR","2","46.00","0.00"
+"SUP011","Vishay Intertechnology","MAT013","CRCW060310K0FKEA","1","28.00",NULL
+"SUP011","Vishay Intertechnology","MAT079","RSM200-16-E3/97A","1","39.00",NULL
+"SUP011","Vishay Intertechnology","MAT012","CRCW040210K0FKED","1","28.00",NULL
+"SUP011","Vishay Intertechnology","MAT042","SI2302CDS-T1-GE3","1","28.00",NULL
+"SUP028","Wurth Elektronik","MAT067","WE-CBF 742792093","1","28.00",NULL
+"SUP028","Wurth Elektronik","MAT074","744043100","2","48.00","8.49"
+"SUP010","Yageo Corporation","MAT011","RC0805FR-074K7L","2","35.50","0.71"
+"SUP010","Yageo Corporation","MAT010","RC0603FR-0710KL","2","35.50","0.71"
+"SUP010","Yageo Corporation","MAT009","RC0402FR-0710KL","2","46.50","0.71"

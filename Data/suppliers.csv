@@ -1,0 +1,61 @@
+﻿supplier_id,supplier_name,supplier_type,region,country,city,payment_terms_days,lead_time_days_contracted,performance_tier,category_specialty,active_since,contact_email
+SUP001,Arrow Electronics,Distributor,Americas,USA,Denver,45,14,A,Broad Line,3/15/18,orders@arrowelectronics.com
+SUP002,Avnet Inc,Distributor,Americas,USA,Phoenix,45,14,A,Broad Line,6/1/17,purchasing@avnet.com
+SUP003,Digi-Key Electronics,Distributor,Americas,USA,Thief River Falls,30,7,A,Broad Line,1/10/16,sales@digikey.com
+SUP004,Mouser Electronics,Distributor,Americas,USA,Mansfield,30,7,A,Broad Line,9/22/17,orders@mouser.com
+SUP005,TTI Inc,Distributor,Americas,USA,Fort Worth,45,10,A,Passives/Connectors,2/14/19,supply@ttiinc.com
+SUP006,Future Electronics,Distributor,Americas,Canada,Montreal,45,12,B,Broad Line,5/18/20,orders@futureelectronics.com
+SUP007,Murata Manufacturing,Manufacturer,Asia,Japan,Kyoto,60,42,A,Passives-MLCC,8/1/15,globalsales@murata.com
+SUP008,TDK Corporation,Manufacturer,Asia,Japan,Tokyo,60,45,A,Passives-MLCC,3/20/16,electronics@tdk.com
+SUP009,Samsung Electro-Mechanics,Manufacturer,Asia,South Korea,Suwon,60,49,B,Passives-MLCC,11/5/19,components@sem.samsung.com
+SUP010,Yageo Corporation,Manufacturer,Asia,Taiwan,New Taipei City,45,35,B,Passives-Resistors,7/12/18,sales@yageo.com
+SUP011,Vishay Intertechnology,Manufacturer,Americas,USA,Malvern,45,28,A,Passives-Resistors,4/8/17,orders@vishay.com
+SUP012,KEMET Corporation,Manufacturer,Americas,USA,Fort Lauderdale,45,30,B,Passives-Capacitors,11/30/18,sales@kemet.com
+SUP013,Panasonic Industrial,Manufacturer,Asia,Japan,Osaka,60,42,A,Passives-Capacitors,9/15/16,industrial@panasonic.com
+SUP014,Nichicon Corporation,Manufacturer,Asia,Japan,Kyoto,60,45,B,Passives-Capacitors,6/22/19,export@nichicon.com
+SUP015,Texas Instruments,Manufacturer,Americas,USA,Dallas,45,56,A,Semiconductors-Analog,1/15/15,purchasing@ti.com
+SUP016,Analog Devices,Manufacturer,Americas,USA,Wilmington,45,52,A,Semiconductors-Analog,5/10/16,orders@analog.com
+SUP017,STMicroelectronics,Manufacturer,Europe,Switzerland,Geneva,60,63,B,Semiconductors-MCU,8/25/17,sales@st.com
+SUP018,NXP Semiconductors,Manufacturer,Europe,Netherlands,Eindhoven,60,58,A,Semiconductors-MCU,11/18/16,supply@nxp.com
+SUP019,Microchip Technology,Manufacturer,Americas,USA,Chandler,45,49,A,Semiconductors-MCU,2/28/17,orders@microchip.com
+SUP020,Infineon Technologies,Manufacturer,Europe,Germany,Munich,60,56,B,Semiconductors-Power,4/12/18,sales@infineon.com
+SUP021,ON Semiconductor,Manufacturer,Americas,USA,Phoenix,45,42,B,Semiconductors-Power,1/8/19,purchasing@onsemi.com
+SUP022,ROHM Semiconductor,Manufacturer,Asia,Japan,Kyoto,60,49,C,Semiconductors-Power,3/15/20,sales@rohm.com
+SUP023,TE Connectivity,Manufacturer,Americas,USA,Schaffhausen,45,21,A,Connectors,7/20/16,orders@te.com
+SUP024,Amphenol Corporation,Manufacturer,Americas,USA,Wallingford,45,24,A,Connectors,3/14/17,sales@amphenol.com
+SUP025,Molex LLC,Manufacturer,Americas,USA,Lisle,45,21,A,Connectors,12/1/16,purchasing@molex.com
+SUP026,JAE Electronics,Manufacturer,Asia,Japan,Tokyo,60,35,B,Connectors,9/10/18,export@jae.com
+SUP027,Hirose Electric,Manufacturer,Asia,Japan,Tokyo,60,35,B,Connectors,4/22/19,sales@hirose.com
+SUP028,Wurth Elektronik,Manufacturer,Europe,Germany,Niedernhall,45,28,A,Passives-Inductors,10/5/17,orders@we-online.com
+SUP029,Coilcraft Inc,Manufacturer,Americas,USA,Cary,30,21,A,Passives-Inductors,2/18/18,sales@coilcraft.com
+SUP030,TDK-Lambda,Manufacturer,Asia,Japan,Tokyo,60,42,B,Power Supplies,8/30/19,orders@tdk-lambda.com
+SUP031,Mean Well Enterprises,Manufacturer,Asia,Taiwan,New Taipei City,45,28,B,Power Supplies,1/15/20,sales@meanwell.com
+SUP032,Delta Electronics,Manufacturer,Asia,Taiwan,Taipei,45,35,B,Power Supplies,6/8/18,components@delta.com
+SUP033,Littelfuse Inc,Manufacturer,Americas,USA,Chicago,45,21,A,Circuit Protection,5/12/17,orders@littelfuse.com
+SUP034,Bourns Inc,Manufacturer,Americas,USA,Riverside,45,24,B,Circuit Protection,8/25/18,sales@bourns.com
+SUP035,Sensata Technologies,Manufacturer,Americas,USA,Attleboro,45,28,B,Sensors,3/18/19,purchasing@sensata.com
+SUP036,Honeywell Sensing,Manufacturer,Americas,USA,Charlotte,45,28,A,Sensors,11/28/17,sensors@honeywell.com
+SUP037,ams OSRAM,Manufacturer,Europe,Austria,Premstatten,60,42,B,Sensors-Optical,7/14/19,sales@ams-osram.com
+SUP038,Omron Electronic,Manufacturer,Asia,Japan,Kyoto,60,35,B,Relays/Switches,5/20/18,components@omron.com
+SUP039,Panasonic Electric Works,Manufacturer,Asia,Japan,Osaka,60,35,B,Relays/Switches,9/8/19,relays@panasonic.com
+SUP040,Samtec Inc,Manufacturer,Americas,USA,New Albany,30,14,A,Connectors-HiSpeed,7/30/17,orders@samtec.com
+SUP041,Shenzhen Sunlord,Manufacturer,Asia,China,Shenzhen,45,42,C,Passives-Inductors,6/15/20,export@sunlord.com
+SUP042,Cyntec Co Ltd,Manufacturer,Asia,Taiwan,Hsinchu,45,38,C,Passives-Inductors,2/10/21,sales@cyntec.com
+SUP043,Holy Stone Enterprise,Manufacturer,Asia,Taiwan,Taipei,45,35,C,Passives-MLCC,9/22/20,orders@holystone.com
+SUP044,Walsin Technology,Manufacturer,Asia,Taiwan,Taichung,45,35,C,Passives-Resistors,11/5/20,sales@walsin.com
+SUP045,Guangdong Fenghua,Manufacturer,Asia,China,Zhaoqing,45,49,C,Passives-MLCC,4/18/21,export@fenghua.com
+SUP046,Jiangsu Changjing,Manufacturer,Asia,China,Changzhou,45,52,C,Semiconductors-Discrete,1/28/21,sales@cj-elec.com
+SUP047,Nexperia BV,Manufacturer,Europe,Netherlands,Nijmegen,60,42,B,Semiconductors-Discrete,10/12/18,orders@nexperia.com
+SUP048,Diodes Incorporated,Manufacturer,Americas,USA,Plano,45,35,B,Semiconductors-Discrete,5/25/19,sales@diodes.com
+SUP049,Renesas Electronics,Manufacturer,Asia,Japan,Tokyo,60,56,B,Semiconductors-MCU,3/8/18,purchasing@renesas.com
+SUP050,Winbond Electronics,Manufacturer,Asia,Taiwan,Taichung,60,49,C,Semiconductors-Memory,7/20/20,sales@winbond.com
+SUP051,ISSI Inc,Manufacturer,Americas,USA,San Jose,45,42,C,Semiconductors-Memory,3/14/21,orders@issi.com
+SUP052,Alliance Memory,Manufacturer,Americas,USA,San Carlos,45,35,B,Semiconductors-Memory,12/1/19,sales@alliancememory.com
+SUP053,JST Connectors,Manufacturer,Asia,Japan,Osaka,60,28,B,Connectors-Wire,4/28/18,export@jst.com
+SUP054,Phoenix Contact,Manufacturer,Europe,Germany,Blomberg,60,28,A,Connectors-Industrial,9/15/17,orders@phoenixcontact.com
+SUP055,Weidmuller Interface,Manufacturer,Europe,Germany,Detmold,60,30,B,Connectors-Industrial,6/10/19,sales@weidmuller.com
+SUP056,Cinch Connectivity,Manufacturer,Americas,USA,Lombard,45,24,B,Connectors-RF,2/28/20,orders@cinch.com
+SUP057,Kyocera AVX,Manufacturer,Americas,USA,Fountain Inn,45,35,B,Passives-Capacitors,1/22/18,sales@kyocera-avx.com
+SUP058,Taiyo Yuden,Manufacturer,Asia,Japan,Tokyo,60,45,B,Passives-MLCC,12/8/17,components@ty-top.com
+SUP059,Susumu Co Ltd,Manufacturer,Asia,Japan,Kyoto,60,42,C,Passives-Resistors,5/30/21,export@susumu.com
+SUP060,Stackpole Electronics,Manufacturer,Americas,USA,Raleigh,45,28,B,Passives-Resistors,10/18/19,sales@seielect.com

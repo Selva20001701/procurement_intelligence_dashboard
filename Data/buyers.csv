@@ -1,0 +1,4 @@
+﻿buyer_id,buyer_name,department,plant_assignment,email,hire_date,commodity_specialty
+BUY01,Sarah Chen,Procurement,AUSTIN,schen@novatech-elec.com,3/15/19,Passives and Inductors
+BUY02,Marcus Williams,Procurement,AUSTIN,mwilliams@novatech-elec.com,6/1/18,Semiconductors and ICs
+BUY03,Elena Rodriguez,Procurement,GUADALAJARA,erodriguez@novatech-elec.com,1/10/20,Connectors and Electromechanical

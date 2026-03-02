@@ -1,0 +1,123 @@
+﻿gr_id,po_line_id,gr_date,quantity_received,quantity_ordered,receipt_status,warehouse,receiving_clerk,quality_status,notes
+GR-0001,POL-0001,2/14/23,50000,50000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0002,POL-0002,2/20/23,40000,40000,Complete,WH-AUSTIN,RCV01,Passed,3 days late
+GR-0003,POL-0003,2/14/23,30000,30000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0004,POL-0004,2/28/23,18000,20000,Partial,WH-AUSTIN,RCV01,Passed,Partial - backorder pending
+GR-0005,POL-0004,3/10/23,2000,20000,Complete,WH-AUSTIN,RCV02,Passed,Backorder received
+GR-0006,POL-0005,2/14/23,30000,30000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0007,POL-0006,2/20/23,5000,5000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0008,POL-0007,2/20/23,4000,4000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0009,POL-0008,2/28/23,2500,2500,Complete,WH-AUSTIN,RCV02,Passed,5 days late - customs delay
+GR-0010,POL-0009,2/20/23,2000,2000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0011,POL-0010,2/20/23,1500,1500,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0012,POL-0011,1/15/23,400,400,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0013,POL-0012,1/15/23,800,800,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0014,POL-0013,1/15/23,300,300,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0015,POL-0014,1/15/23,500,500,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0016,POL-0015,2/21/23,2000,2000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0017,POL-0016,2/21/23,1500,1500,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0018,POL-0017,2/21/23,5000,5000,Complete,WH-GDL,RCV04,Passed,On-time delivery
+GR-0019,POL-0018,3/5/23,3500,4000,Partial,WH-GDL,RCV03,Passed,Partial shipment - 7 days late
+GR-0020,POL-0018,3/15/23,500,4000,Complete,WH-GDL,RCV04,Passed,Balance received
+GR-0021,POL-0019,2/28/23,100000,100000,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0022,POL-0020,2/17/23,80000,80000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0023,POL-0021,2/17/23,60000,60000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0024,POL-0022,3/28/23,2500,2500,Complete,WH-AUSTIN,RCV02,Passed,1 day late
+GR-0025,POL-0023,3/20/23,1500,1500,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0026,POL-0024,3/20/23,1200,1200,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0027,POL-0025,3/1/23,1500,1500,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0028,POL-0026,3/1/23,1200,1200,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0029,POL-0027,3/12/23,1800,2000,Partial,WH-GDL,RCV04,Passed,Partial - 4 days late
+GR-0030,POL-0027,3/20/23,200,2000,Complete,WH-GDL,RCV03,Passed,Balance received
+GR-0031,POL-0028,3/1/23,1500,1500,Complete,WH-GDL,RCV04,Passed,On-time delivery
+GR-0032,POL-0029,2/17/23,80000,80000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0033,POL-0030,2/17/23,70000,70000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0034,POL-0031,2/17/23,15000,15000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0035,POL-0032,2/28/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,4 days late
+GR-0036,POL-0033,3/6/23,10000,10000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0037,POL-0034,3/6/23,8000,8000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0038,POL-0035,3/6/23,12000,12000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0039,POL-0036,3/22/23,75000,80000,Partial,WH-GDL,RCV03,Passed,7 days late - partial
+GR-0040,POL-0036,4/5/23,5000,80000,Complete,WH-GDL,RCV04,Passed,Balance received
+GR-0041,POL-0037,3/8/23,60000,60000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0042,POL-0038,3/8/23,50000,50000,Complete,WH-GDL,RCV04,Passed,On-time delivery
+GR-0043,POL-0039,4/1/23,30000,35000,Partial,WH-GDL,RCV03,Passed,10 days late - allocation issue
+GR-0044,POL-0039,4/15/23,5000,35000,Complete,WH-GDL,RCV04,Passed,Balance received
+GR-0045,POL-0040,3/14/23,1500,1500,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0046,POL-0041,3/14/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0047,POL-0042,3/28/23,1500,1500,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0048,POL-0043,3/20/23,15000,15000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0049,POL-0044,4/3/23,10000,12000,Partial,WH-AUSTIN,RCV01,Passed,7 days late - partial
+GR-0050,POL-0044,4/10/23,2000,12000,Complete,WH-AUSTIN,RCV02,Passed,Balance received
+GR-0051,POL-0045,3/20/23,8000,8000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0052,POL-0046,3/21/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0053,POL-0047,4/4/23,1200,1200,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0054,POL-0048,3/21/23,2000,2000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0055,POL-0049,3/3/23,3000,3000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0056,POL-0050,3/17/23,1500,1500,Complete,WH-GDL,RCV04,Passed,7 days late
+GR-0057,POL-0051,3/10/23,40000,40000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0058,POL-0052,3/10/23,25000,25000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0059,POL-0053,3/24/23,4500,5000,Partial,WH-AUSTIN,RCV01,Passed,7 days late - partial
+GR-0060,POL-0053,4/5/23,500,5000,Complete,WH-AUSTIN,RCV02,Passed,Balance received
+GR-0061,POL-0054,4/26/23,400,400,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0062,POL-0055,4/12/23,350,350,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0063,POL-0056,4/12/23,5000,5000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0064,POL-0057,3/13/23,40000,40000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0065,POL-0058,3/27/23,5500,6000,Partial,WH-GDL,RCV04,Passed,7 days late - partial
+GR-0066,POL-0058,4/8/23,500,6000,Complete,WH-GDL,RCV03,Passed,Balance received
+GR-0067,POL-0059,2/22/23,1200,1200,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0068,POL-0060,2/22/23,500,500,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0069,POL-0061,2/22/23,5000,5000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0070,POL-0062,4/24/23,20000,20000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0071,POL-0063,4/17/23,15000,15000,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0072,POL-0064,4/3/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0073,POL-0065,4/3/23,100000,100000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0074,POL-0066,4/17/23,70000,80000,Partial,WH-AUSTIN,RCV02,Passed,7 days late - MLCC shortage
+GR-0075,POL-0066,5/1/23,10000,80000,Complete,WH-AUSTIN,RCV01,Passed,Balance received
+GR-0076,POL-0067,4/24/23,45000,50000,Partial,WH-AUSTIN,RCV02,Passed,7 days late - partial
+GR-0077,POL-0067,5/8/23,5000,50000,Complete,WH-AUSTIN,RCV01,Passed,Balance received
+GR-0078,POL-0068,4/10/23,2000,2000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0079,POL-0069,4/10/23,3000,3000,Complete,WH-GDL,RCV04,Passed,On-time delivery
+GR-0080,POL-0070,4/24/23,2500,2500,Complete,WH-GDL,RCV03,Passed,7 days late
+GR-0081,POL-0071,3/21/23,4000,4000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0082,POL-0072,3/21/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0083,POL-0073,4/4/23,5500,6000,Partial,WH-AUSTIN,RCV01,Passed,7 days late - partial
+GR-0084,POL-0073,4/15/23,500,6000,Complete,WH-AUSTIN,RCV02,Passed,Balance received
+GR-0085,POL-0074,4/11/23,4000,4000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0086,POL-0075,4/11/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0087,POL-0076,4/11/23,8000,8000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0088,POL-0077,5/18/23,4000,4000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0089,POL-0078,5/4/23,2000,2000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0090,POL-0079,5/15/23,55000,60000,Partial,WH-AUSTIN,RCV02,Passed,7 days late - partial
+GR-0091,POL-0079,5/29/23,5000,60000,Complete,WH-AUSTIN,RCV01,Passed,Balance received
+GR-0092,POL-0080,5/7/23,40000,40000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0093,POL-0081,3/29/23,8000,8000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0094,POL-0082,3/29/23,6000,6000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0095,POL-0083,3/29/23,20000,20000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0096,POL-0084,3/31/23,3000,3000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0097,POL-0085,4/14/23,2500,2500,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0098,POL-0086,3/31/23,2000,2000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0099,POL-0087,4/28/23,120000,120000,Complete,WH-AUSTIN,RCV01,Passed,4 days late
+GR-0100,POL-0088,4/17/23,100000,100000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0101,POL-0089,4/17/23,80000,80000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0102,POL-0090,5/6/23,2500,2500,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0103,POL-0091,5/20/23,1000,1000,Complete,WH-GDL,RCV04,Passed,7 days late
+GR-0104,POL-0092,5/6/23,200,200,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0105,POL-0093,5/22/23,5000,5000,Complete,WH-AUSTIN,RCV01,Passed,7 days late
+GR-0106,POL-0094,5/15/23,5000,5000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0107,POL-0095,5/1/23,80000,80000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0108,POL-0096,5/15/23,55000,60000,Partial,WH-AUSTIN,RCV02,Passed,7 days late - partial
+GR-0109,POL-0096,5/29/23,5000,60000,Complete,WH-AUSTIN,RCV01,Passed,Balance received
+GR-0110,POL-0097,5/1/23,10000,10000,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0111,POL-0098,5/11/23,2000,2000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0112,POL-0099,5/25/23,4000,4000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0113,POL-0100,5/11/23,2000,2000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0114,POL-0101,4/18/23,4000,4000,Complete,WH-GDL,RCV03,Passed,On-time delivery
+GR-0115,POL-0102,5/2/23,2000,2000,Complete,WH-GDL,RCV04,Passed,7 days late
+GR-0116,POL-0103,5/12/23,25000,25000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0117,POL-0104,5/26/23,18000,18000,Complete,WH-AUSTIN,RCV02,Passed,7 days late
+GR-0118,POL-0105,5/12/23,8000,8000,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0119,POL-0106,4/6/23,1500,1500,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0120,POL-0107,4/6/23,800,800,Complete,WH-AUSTIN,RCV01,Passed,On-time delivery
+GR-0121,POL-0108,4/6/23,600,600,Complete,WH-AUSTIN,RCV02,Passed,On-time delivery
+GR-0122,POL-0109,5/19/23,6000,6000,Complete,WH-GDL,RCV03,Passed,
