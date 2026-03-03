@@ -2,7 +2,7 @@
 
 A complete end-to-end procurement analytics solution that transforms raw ERP data into actionable supply chain insights.
 
-![Tableau Dashboard](link-to-your-dashboard-screenshot.png)
+![Tableau Dashboard](./dashboard/Procurement%20Executive%20Overview.png)
 
 ## 🎯 Business Problem
 
