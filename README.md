@@ -1,6 +1,6 @@
-# NovaTech Electronics - Procurement Intelligence Dashboard
+# Procurement Intelligence Dashboard - Electronics Manufacturing Case Study
 
-A complete end-to-end procurement analytics solution that transforms raw ERP data into actionable supply chain insights.
+This project simulates a procurement analytics solution for a mid-size electronics contract manufacturer. The fictional company 'NovaTech Electronics' represents a typical EMS provider facing real-world supply chain challenges.
 
 ![Tableau Dashboard](./dashboard/Procurement%20Executive%20Overview.png)
 
